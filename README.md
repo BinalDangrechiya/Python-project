@@ -5,9 +5,9 @@ To analyze sales data during the Diwali festival to gain business insights such 
 
 Tools & Technologies Used:
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-Google colab
+- Google colab
 
 Project Learnings :
 
